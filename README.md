@@ -9,10 +9,10 @@ The creation of a heart prediction system is the main goal of this study. The al
 We used regression algorithms, Random Forest algorithm, SVM in this system to develop an efficient heart attack prediction system. The system can receive input from a UCI Heart CSV file. 
 
 Open below Files using R studio:
-app.R
-about.md
-heart.csv
+1) app.R
+2) about.md
+3) heart.csv
 
 Open below Files using Jupyter Notebook:
-Heart Disease Prediction(1).ipynb
+1) Heart Disease Prediction(1).ipynb
 
